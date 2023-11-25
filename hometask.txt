@@ -3,3 +3,12 @@
 В ветке demo - сначала замержили hat и boots, затем buttons
 
 В дз - сначала boots и buttons, потом hat
+
+
+
+init
+heat added
+boots
+README added 
+dots
+fix readme
